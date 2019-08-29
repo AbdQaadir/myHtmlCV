@@ -1,0 +1,49 @@
+body{
+    background: #008366;
+    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 0 2rem;
+    
+}
+a{
+    color: #06f5c1;
+}
+h3{
+    font-size: 2rem;
+    text-align: center;
+}
+h3 .bdr{
+    border-left: 3px solid #06f5c1;
+    margin: 10px;
+}
+#brief-info{
+    text-align: center;
+    font-weight: 500;
+}
+#brief-info h1{
+    text-transform: uppercase;
+}
+#brief-info h1 span{
+    text-transform: capitalize;
+    font-size: 1.4rem;
+}
+
+/* skills */
+#skills{
+    margin: 5rem 0;
+}
+
+#skills ul li{
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+}
+
+/* about me */
+#about-me{
+    text-align: center;
+}
+
+#education {
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+}
