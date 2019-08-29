@@ -1,5 +1,3 @@
 # AbdQaadir's HTML CV
 
-Flutterwave social media post link: https://twitter.com/Abd_Qaadir/status/1164714752985182208
-
-Lucid post: https://lucid.blog/lateef9816/post/1566524055
+Lucid post on CSS: https://lucid.blog/lateef9816/post/wonders-of-css-1fe
